@@ -106,7 +106,7 @@ The simulation results show that:
 
 ## Author
 
-Keyvan
+Keyvanmehr
 
 
 # شبیه‌سازی شبکه IoT مبتنی بر LoRaWAN در متلب
@@ -216,5 +216,5 @@ main
 
 ## تهیه‌کننده
 
-کیوان
+کیوان مهر
 .
